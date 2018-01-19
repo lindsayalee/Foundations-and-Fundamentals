@@ -18,9 +18,9 @@ A space to put documents for the foundations and fundamentals of UQ at the INI.
 
 ## Model discrepancy
 
-## Extrapolation of the discrepancy
+### Extrapolation of the discrepancy
 
-## Reification
+### Reification
 
 
 
