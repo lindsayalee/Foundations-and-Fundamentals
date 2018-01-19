@@ -25,7 +25,7 @@ I have used the R package [DiceKriging](https://cran.r-project.org/web/packages/
 
 ### Infinite v finite dimension
 
-
+Key texts here appear in [Hermann Matthies' seminar](http://www.newton.ac.uk/seminar/20180117110013002). 
 
 ## Model discrepancy
 
