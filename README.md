@@ -13,6 +13,10 @@ I can recommend a tour through [Catherine Powell's Lecture Notes](http://www.mat
 
 For an overview of Bayesian analysis of computer codes I believe [Tony O'Hagan's introduction](www.tonyohagan.co.uk/academic/pdf/BACCO-tutorial.pdf) is a good start.
 
+[Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) is available in pdf format to download.  This book covers a lot of the relevant material. 
+
+I have used the R package [DiceKriging](https://cran.r-project.org/web/packages/DiceKriging/index.html) for my projects and those with any interest in building an emulator could start here following the accompanying text [DiceKriging, DiceOptim: Two R Packages for the Analysis of Computer Experiments by Kriging-Based Metamodeling and Optimization](https://www.jstatsoft.org/article/view/v051i01/v51i01.pdf).  The first two authors of the paper will be programme visitors at various times.  
+
 ### Key problems and examples
 
 
