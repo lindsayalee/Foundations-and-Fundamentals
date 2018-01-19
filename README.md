@@ -9,8 +9,6 @@ Any key papers? Perhaps needs a discussion rather than a paper dump?
 
 ### Key methods - Gaussian Processes, Stochastic Collocation, Stochastic Galerkin
 
-I can recommend a tour through [Catherine Powell's Lecture Notes](http://www.maths.manchester.ac.uk/~cp/MATH20411.html) for those who haven't done applied mathematics since undergrad days and those who would like a refresher.
-
 For an overview of Bayesian analysis of computer codes I believe [Tony O'Hagan's introduction](www.tonyohagan.co.uk/academic/pdf/BACCO-tutorial.pdf) is a good start.
 
 [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) is available in pdf format to download.  This book covers a lot of the relevant material. 
